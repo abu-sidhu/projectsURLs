@@ -1,3 +1,4 @@
+<html>
 For any company, finding talented employees and providing them good salary for their efforts and skills is an important aspect
 since better provided employees with right skills are the backbone of the company. To predict the salary of an employee for the salary hike is always
 a huge task for the HR team of the Company. A prediction is an assumption about a future event so the prediction is based upon knowledge, work flow,
@@ -11,4 +12,4 @@ pythonanywhere environment by using python flask.
 URL for hosted webapp is given below
 
 https://tcsionsalarypredict.pythonanywhere.com/
-
+</html>
