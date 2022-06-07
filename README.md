@@ -1,4 +1,4 @@
 # projectsURLs
 
-In this page my projects urls are shared.
+In this, all projects urls  done by me are shared with a brief description.
 
