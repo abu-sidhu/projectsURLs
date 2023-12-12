@@ -1,6 +1,6 @@
 # projectsURLs
 
-In this, all projects urls  done by me are shared with a brief description.
+In this, all projects details done by me are shared with a brief description. The urls are removed since all are expired.
 
 1.Apple Stock values history
 
